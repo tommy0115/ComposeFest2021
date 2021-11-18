@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa5a34b5-4a0a-4516-a4f5-fc1dcb772938" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/ComposeFest2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/androidTest/java/com/codelab/layouts/jetpack/layoutscodelab/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/java/com/codelab/layouts/jetpack/layoutscodelab/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/java/com/codelab/layouts/jetpack/layoutscodelab/PhotographerCard.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/java/com/codelab/layouts/jetpack/layoutscodelab/SimpleList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/java/com/codelab/layouts/jetpack/layoutscodelab/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/java/com/codelab/layouts/jetpack/layoutscodelab/ui/theme/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/java/com/codelab/layouts/jetpack/layoutscodelab/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/java/com/codelab/layouts/jetpack/layoutscodelab/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/app/src/test/java/com/codelab/layouts/jetpack/layoutscodelab/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutsCodelab/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 1-Jetpack Compose basics/BasicsCodelabStudy/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week 1-Jetpack Compose basics/BasicsCodelabStudy/.idea/gradle.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="ProjectId" id="20vtxwDGsfrKVGymKRjph2NSG6z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa5a34b5-4a0a-4516-a4f5-fc1dcb772938" name="Default Changelist" comment="" />
+      <created>1636937139455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636937139455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
