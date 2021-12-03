@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.codelab.theming.ui.finish.theme
+package com.codelab.theming.ui.start.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -24,22 +24,22 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 
 private val LightColors = lightColors(
-    primary = com.codelab.theming.ui.start.theme.Red700,
-    primaryVariant = com.codelab.theming.ui.start.theme.Red900,
+    primary = Red700,
+    primaryVariant = Red900,
     onPrimary = Color.White,
-    secondary = com.codelab.theming.ui.start.theme.Red700,
-    secondaryVariant = com.codelab.theming.ui.start.theme.Red900,
+    secondary = Red700,
+    secondaryVariant = Red900,
     onSecondary = Color.White,
-    error = com.codelab.theming.ui.start.theme.Red800
+    error = Red800
 )
 
 private val DarkColors = darkColors(
-    primary = com.codelab.theming.ui.start.theme.Red300,
-    primaryVariant = com.codelab.theming.ui.start.theme.Red700,
+    primary = Red300,
+    primaryVariant = Red700,
     onPrimary = Color.Black,
-    secondary = com.codelab.theming.ui.start.theme.Red300,
+    secondary = Red300,
     onSecondary = Color.Black,
-    error = com.codelab.theming.ui.start.theme.Red200
+    error = Red200
 )
 
 @Composable
@@ -49,8 +49,8 @@ fun JetnewsTheme(
 ) {
     MaterialTheme(
         colors = if (darkTheme) DarkColors else LightColors,
-        typography = com.codelab.theming.ui.start.theme.JetnewsTypography,
-        shapes = com.codelab.theming.ui.start.theme.JetnewsShapes,
+        typography = JetnewsTypography,
+        shapes = JetnewsShapes,
         content = content
     )
 }
